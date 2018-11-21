@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNotes app</string>
+    <string name="notes_app">MyNotes</string>
+    <string name="msg">Please enable all permission</string>
+    <string name="title">Enter title for your note</string>
+    <string name="content">Enter your note</string>
+</resources>
