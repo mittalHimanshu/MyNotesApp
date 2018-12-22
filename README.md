@@ -29,3 +29,10 @@
 <p align="center">
   <img src="https://mittalhimanshu151.000webhostapp.com/Images/MyNotes%20App/7.png" width="250" height="500" hspace="19"/>
 </p>
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](https://github.com/mittalHimanshu/MyNotesApp/blob/master/LICENSE)**
+- Copyright 2018 © <a href="https://github.com/mittalHimanshu" target="_blank">Himanshu Mittal</a>.
